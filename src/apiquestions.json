@@ -1,0 +1,23 @@
+[{
+    "id":1,
+    "question":"How many days in a week ?",
+    "answer":"7 " 
+} , 
+{
+    "id":2,
+    "question":"How many days in a month ?",
+    "answer":"30" 
+} , {
+    "id":3,
+    "question":"How many days in a year ?",
+    "answer":"365" 
+} , {
+    "id":4,
+    "question":"How many sundays in a month ?",
+    "answer":"4 " 
+} , {
+    "id":5,
+    "question":" who is the PM of India ?",
+    "answer":"Narendra Modi" 
+} 
+]

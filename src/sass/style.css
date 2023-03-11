@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  font-weight: 400;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: cadetblue;
+  padding: 3rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px #8f8f8f;
+  width: 300px;
+}
+
+.btn {
+  padding: 0.4rem 1.3rem;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+
+h2, h3 {
+  margin: 1rem;
+}
+
+input {
+  border: none;
+  outline: none;
+  padding: 5px;
+}
+
+.input {
+  display: flex;
+  background-color: #fff;
+  margin-bottom: 2rem;
+}
+
+input {
+  border-radius: 5px;
+}
+
+.startBtn {
+  margin: 2rem 0;
+  text-decoration: none;
+  background-color: green;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: #fff;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.action {
+  margin: 1rem 0;
+}
+
+button {
+  padding: 5px 10px;
+  border-radius: 2px;
+  border: none;
+  outline: none;
+  background-color: green;
+  color: #fff;
+  margin: 5px;
+}
+
+span {
+  color: rgb(255, 255, 255);
+  background-color: blueviolet;
+  padding: 5px 10px;
+  border-radius: 5px;
+}/*# sourceMappingURL=style.css.map */
